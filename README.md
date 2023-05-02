@@ -1,1 +1,1 @@
-https://dsc.gg/status-manager
+I write horrible code that sometimes works as intended
